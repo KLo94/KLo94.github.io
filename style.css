@@ -4,8 +4,11 @@
 * {
   : 0   !important;
 }
-.container-fluid{
-	height:100%;
+.namecontainer{
+	width: 50%;
+}
+.featurecontainer{
+	width: 16.7%;
 }
 .fillbtn{
 	width: 100%;
