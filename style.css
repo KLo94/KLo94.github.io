@@ -11,7 +11,15 @@
 	width: 16%;
 }
 .maincontainer{
-	margin-top: 100px;
+	margin-top: 50px;
+}
+.tallcontain1{
+	height:500px;
+	background-color:#939393;
+}
+.tallcontain2{
+	height:500px;
+	background-color:#939393;
 }
 .navbar{
 	height: 40px;
