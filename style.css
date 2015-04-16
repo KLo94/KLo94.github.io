@@ -9,7 +9,9 @@
 }
 .featurecontainer{
 	width: 16%;
-	
+}
+.maincontainer{
+	margin-top: 50px;
 }
 .fillbtn{
 	width: 100%;
