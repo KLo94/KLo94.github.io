@@ -13,6 +13,9 @@
 .maincontainer{
 	margin-top: 50px;
 }
+.navbar{
+	height: 40px;
+}
 .fillbtn{
 	width: 100%;
 	height: 100%;
