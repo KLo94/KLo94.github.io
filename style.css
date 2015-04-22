@@ -12,7 +12,7 @@ body{
 [id=synopsisbox]{
 	background-color:rgba(255,255,255,0.6);
 	color: gray;
-	height: 300px;
+	height: auto;
 }
 .pushdown{
 	margin-top: 50px;
