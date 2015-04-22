@@ -7,14 +7,14 @@ body{
 }
 body .navbar{
 	background-color:rgba(255,255,255,0.75);
-	color: gray;
+	color: #696969;
 }
 a{
-	color:gray;
+	color:#696969;
 }
 [id=synopsisbox]{
 	background-color:rgba(255,255,255,0.6);
-	color: gray;
+	color: #696969;
 	height: 400px;
 }
 .pushdown{
