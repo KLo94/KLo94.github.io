@@ -3,6 +3,5 @@
 }
 body{
 	background-image: url("mainpage.jpg");
-	width: auto;
-	height: 100%;
+	background-size: contain;
 }
