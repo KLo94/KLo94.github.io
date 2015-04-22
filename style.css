@@ -3,5 +3,5 @@
 }
 body{
 	background-image: url("mainpage.jpg");
-	background-size: 100px 100px;
+	background-size: cover;
 }
