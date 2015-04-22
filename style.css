@@ -6,7 +6,8 @@ body{
 	background-size: cover;
 }
 [id=synopsisbox]{
-	background-color:white;
+	background-color:rgba(0,0,0,0.3);
+	height: 300px;
 }
 .pushdown{
 	margin-top: 200px;
