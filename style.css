@@ -5,14 +5,14 @@ body{
 	background-image: url("mainpage1.jpg");
 	background-size: cover;
 }
-.navbar{
+body .navbar{
 	background-color:rgba(255,255,255,0.75);
 	color: gray;
 }
 [id=synopsisbox]{
 	background-color:rgba(255,255,255,0.6);
 	color: gray;
-	height: auto;
+	height: 800px;
 }
 .pushdown{
 	margin-top: 50px;
