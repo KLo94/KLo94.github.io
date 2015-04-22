@@ -5,6 +5,9 @@ body{
 	background-image: url("mainpage1.jpg");
 	background-size: cover;
 }
+[id=synopsisbox]{
+	background-color:white;
+}
 .pushdown{
 	margin-top: 50px;
 }
