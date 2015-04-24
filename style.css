@@ -22,8 +22,8 @@ a{
 	height: 300px;
 }
 .bgSizeCover {
-  height: auto;
+  height: 900px;
   background-image: url('megansimage.jpg');
-  background-size: cover;
+  background-size: contain;
   border: 2px solid darkgray;
   color: #000; text-shadow: 1px 1px 0 #fff;
