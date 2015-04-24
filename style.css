@@ -3,11 +3,11 @@
 }
 
 body .navbar{
-	background-color:rgba(255,255,255,0.75);
+	background-color:transparent;
 	color: navy;
 }
 a{
-	color:#696969;
+	color:blue;
 }
 [id=synopsisbox]{
 	background-color:rgba(255,255,255,0.6);
@@ -15,7 +15,7 @@ a{
 	height: 50px;
 }
 .pushdown{
-	margin-top: 400px;
+	margin-top: 450px;
 }
 [id=about]{
 	background-color:rgba(255,255,255,0.6); 
