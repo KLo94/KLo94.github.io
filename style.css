@@ -22,10 +22,8 @@ a{
 	height: 300px;
 }
 .bgSizeCover {
-  height: 100%;
-  width: 100%;
-  background-image: url('megansimage.jpg');
-  top: 0;
-  left: 0;
-  z-index: -100;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("megansimage.jpg");
 }
