@@ -26,6 +26,8 @@ a{
 }
 [id=bannername]{
 	font-family: "Verdana";
+	font-size: 100px;
+	text-align: center;
 }
 body {
 
