@@ -15,11 +15,17 @@ a{
 	height: 50px;
 }
 .pushdown{
-	margin-top: 450px;
+	margin-top: 50px;
 }
 [id=about]{
 	background-color:rgba(255,255,255,0.6); 
 	height: 300px;
+}
+[id=profilepic]{
+	content: url("profilepicture.jpg")
+}
+[id=bannername]{
+	font-family: "Verdana";
 }
 body {
     background-size: cover;
